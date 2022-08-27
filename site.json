@@ -2,7 +2,8 @@
   "baseUrl": "/website",
   "titlePrefix": "TIC2002",
   "style": {
-    "codeTheme": "light"
+    "codeTheme": "light",
+    "codeLineNumbers": true
   },
   "timeZone": "Asia/Singapore",
   "disableHtmlBeautify": true,
@@ -55,7 +56,7 @@
   },
   "enableSearch": true,
   "headingIndexingLevel": 5,
-  "plugins": ["filterTags", "algolia"],
+  "plugins": ["filterTags", "algolia", "codeBlockCopyButtons"],
   "pluginsContext": {
     "filterTags" : {
       "tags": ["m--tic2002"]

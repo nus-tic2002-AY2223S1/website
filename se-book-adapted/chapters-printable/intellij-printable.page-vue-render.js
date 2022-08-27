@@ -23,7 +23,7 @@ with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube
 with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"https://www.jetbrains.com/help/idea/debugger-basics.html"}},[_v("IntelliJ IDEA Documentation: Debugging Basics")]),_v(" - Can be used as a reference document when you want to recall how to use a debugging feature.")])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("This video explains how to automate the 'Extract variable' refactoring using IntelliJ IDEA. Most other refactorings available work similarly. i.e. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("select the code to refactor")]),_v(" → "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("find the refactoring in the context menu")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("use the keyboard shortcut")]),_v(".")])}
+with(this){return _c('p',[_v("This video explains how to automate the 'Extract variable' refactoring using IntelliJ IDEA. Most other refactorings available work similarly. i.e. "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("select the code to refactor")]),_v(" → "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("find the refactoring in the context menu")]),_v(" or "),_c('code',{pre:true,attrs:{"class":"line-numbers hljs inline no-lang"}},[_v("use the keyboard shortcut")]),_v(".")])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube",staticStyle:{"position":"relative","padding-bottom":"60.9375%"}},[_c('iframe',{attrs:{"type":"text/html","src":"//www.youtube.com/embed/W_IiuORF16E","frameborder":"0","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
@@ -35,6 +35,6 @@ with(this){return _c('div',{staticClass:"block-embed block-embed-service-youtube
 with(this){return _c('ul',[_c('li',[_c('a',{attrs:{"href":"https://www.jetbrains.com/help/idea/introduction-to-refactoring.html"}},[_v("Introduction to Refactoring (in IntelliJ IDEA)")]),_v(": An article on the refactorings available in IntelliJ IDEA.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Tue, 23 Aug 2022, 21:44:42 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.1")]),_v(", generated on Sat, 27 Aug 2022, 21:38:47 GMT+8]")])])])}
 }];
   
