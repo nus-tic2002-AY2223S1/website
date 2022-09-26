@@ -23,6 +23,6 @@ with(this){return _c('ul',[_c('li',[_c('p',[_v("["),_c('a',{attrs:{"href":"/webs
 with(this){return _c('div',{staticClass:"col-sm"},[_c('p',[_c('span',[_c('strong',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-check",attrs:{"aria-hidden":"true"}})])])]),_v(" Tasks Summary:")]),_v(" "),_c('div',[_c('ol',[_c('li',[_v("Submit the quiz")])]),_v(" "),_c('p',[_c('span',[_c('span',{staticClass:"fas fa-drafting-compass",attrs:{"aria-hidden":"true"}})]),_v(" "),_c('strong',[_v("Project:")])]),_v(" "),_c('ol',[_c('li',[_v("Finish up the project coding")]),_v(" "),_c('li',[_v("Prepare the final submission")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Sun, 25 Sept 2022, 2:12:31 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Mon, 26 Sept 2022, 13:11:31 GMT+8]")])])])}
 }];
   
