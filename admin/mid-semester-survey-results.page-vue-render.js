@@ -65,6 +65,6 @@ with(this){return _c('div',[_c('p',[_v("I wish we have more Java exercises on co
 with(this){return _c('div',[_c('p',[_v("It would be nice if tool tips are added to all icons on module website so that I do not have to refer back to Admin Info when I am unsure about an icon.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Tue, 27 Sept 2022, 22:27:56 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 4.0.2")]),_v(", generated on Tue, 4 Oct 2022, 20:38:34 GMT+8]")])])])}
 }];
   
