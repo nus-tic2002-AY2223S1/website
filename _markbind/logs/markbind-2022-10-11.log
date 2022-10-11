@@ -1,0 +1,107 @@
+2022-10-11T12:48:30.053Z - info: Website generation (lazy) started at 8:48:24 pm
+2022-10-11T12:48:42.671Z - info: Building assets...
+2022-10-11T12:48:51.668Z - info: Assets built
+2022-10-11T12:48:51.669Z - info: Generating landing page...
+2022-10-11T12:48:53.250Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-10-11T12:48:54.416Z - info: Site data built
+2022-10-11T12:48:54.416Z - info: Website generation (lazy) complete! Total build time: 29.936s
+2022-10-11T12:48:55.485Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-10-11T12:48:55.485Z - info: Press CTRL+C to stop ...
+2022-10-11T12:49:18.529Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\index as some of its dependencies were changed since the last visit
+2022-10-11T12:49:21.210Z - info: Site data built
+2022-10-11T12:49:21.210Z - info: Lazy website regeneration complete! Total build time: 2.683s
+2022-10-11T12:49:23.554Z - info: [8:49:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-10-11T12:49:23.555Z - info: Synchronizing opened pages list before reload
+2022-10-11T12:49:23.555Z - info: Current opened pages, from most-to-least recent:
+2022-10-11T12:49:23.556Z - info: 1. schedule/week9/index
+2022-10-11T12:49:24.654Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-10-11T12:49:24.661Z - info: Rebuilding 1 pages
+2022-10-11T12:49:25.371Z - info: Site data built
+2022-10-11T12:49:25.372Z - info: Pages rebuilt
+2022-10-11T12:49:25.372Z - info: Website regeneration complete! Total build time: 0.812s
+2022-10-11T12:49:28.255Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin as some of its dependencies were changed since the last visit
+2022-10-11T12:49:28.971Z - info: Site data built
+2022-10-11T12:49:28.971Z - info: Lazy website regeneration complete! Total build time: 0.716s
+2022-10-11T12:49:29.777Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin as some of its dependencies were changed since the last visit
+2022-10-11T12:49:30.071Z - info: Site data built
+2022-10-11T12:49:30.072Z - info: Lazy website regeneration complete! Total build time: 0.295s
+2022-10-11T12:51:38.855Z - info: [8:51:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002-fragment.md
+2022-10-11T12:51:38.856Z - info: Synchronizing opened pages list before reload
+2022-10-11T12:51:38.856Z - info: Current opened pages, from most-to-least recent:
+2022-10-11T12:51:38.857Z - info: 1. schedule/week9/admin
+2022-10-11T12:51:39.865Z - info: Rebuilding 1 pages
+2022-10-11T12:51:40.397Z - info: Site data built
+2022-10-11T12:51:40.397Z - info: Pages rebuilt
+2022-10-11T12:51:40.397Z - info: Website regeneration complete! Total build time: 0.533s
+2022-10-11T12:52:51.914Z - info: [8:52:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002-fragment.md
+2022-10-11T12:52:51.914Z - info: Synchronizing opened pages list before reload
+2022-10-11T12:52:51.914Z - info: Current opened pages, from most-to-least recent:
+2022-10-11T12:52:51.914Z - info: 1. schedule/week9/admin
+2022-10-11T12:52:52.918Z - info: Rebuilding 1 pages
+2022-10-11T12:52:53.266Z - info: Site data built
+2022-10-11T12:52:53.267Z - info: Pages rebuilt
+2022-10-11T12:52:53.267Z - info: Website regeneration complete! Total build time: 0.349s
+2022-10-11T12:53:06.131Z - info: [8:53:06 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002-fragment.md
+2022-10-11T12:53:06.131Z - info: Synchronizing opened pages list before reload
+2022-10-11T12:53:06.131Z - info: Current opened pages, from most-to-least recent:
+2022-10-11T12:53:06.131Z - info: 1. schedule/week9/admin
+2022-10-11T12:53:07.142Z - info: Rebuilding 1 pages
+2022-10-11T12:53:07.412Z - info: Site data built
+2022-10-11T12:53:07.412Z - info: Pages rebuilt
+2022-10-11T12:53:07.412Z - info: Website regeneration complete! Total build time: 0.271s
+2022-10-11T12:54:29.541Z - info: [8:54:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002-fragment.md
+2022-10-11T12:54:29.542Z - info: Synchronizing opened pages list before reload
+2022-10-11T12:54:29.542Z - info: Current opened pages, from most-to-least recent:
+2022-10-11T12:54:29.542Z - info: 1. schedule/week9/admin
+2022-10-11T12:54:30.551Z - info: Rebuilding 1 pages
+2022-10-11T12:54:30.993Z - info: Site data built
+2022-10-11T12:54:30.993Z - info: Pages rebuilt
+2022-10-11T12:54:30.993Z - info: Website regeneration complete! Total build time: 0.443s
+2022-10-11T12:57:21.177Z - info: [8:57:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002-fragment.md
+2022-10-11T12:57:21.177Z - info: Synchronizing opened pages list before reload
+2022-10-11T12:57:21.177Z - info: Current opened pages, from most-to-least recent:
+2022-10-11T12:57:21.178Z - info: 1. schedule/week9/admin
+2022-10-11T12:57:22.196Z - info: Rebuilding 1 pages
+2022-10-11T12:57:22.828Z - info: Site data built
+2022-10-11T12:57:22.828Z - info: Pages rebuilt
+2022-10-11T12:57:22.828Z - info: Website regeneration complete! Total build time: 0.633s
+2022-10-11T12:58:41.776Z - info: Website generation (lazy) started at 8:58:39 pm
+2022-10-11T12:58:55.222Z - info: Building assets...
+2022-10-11T12:59:05.122Z - info: Assets built
+2022-10-11T12:59:05.124Z - info: Generating landing page...
+2022-10-11T12:59:06.534Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-10-11T12:59:07.961Z - info: Site data built
+2022-10-11T12:59:07.962Z - info: Website generation (lazy) complete! Total build time: 28.329s
+2022-10-11T12:59:09.186Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-10-11T12:59:09.187Z - info: Press CTRL+C to stop ...
+2022-10-11T12:59:30.667Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin as some of its dependencies were changed since the last visit
+2022-10-11T12:59:35.042Z - info: Site data built
+2022-10-11T12:59:35.042Z - info: Lazy website regeneration complete! Total build time: 4.377s
+2022-10-11T13:00:24.913Z - info: [9:00:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002-fragment.md
+2022-10-11T13:00:24.914Z - info: Synchronizing opened pages list before reload
+2022-10-11T13:00:24.916Z - info: Current opened pages, from most-to-least recent:
+2022-10-11T13:00:24.916Z - info: 1. schedule/week9/admin
+2022-10-11T13:00:24.916Z - info: 2. index
+2022-10-11T13:00:25.936Z - info: Rebuilding 2 pages
+2022-10-11T13:00:27.045Z - info: Site data built
+2022-10-11T13:00:27.046Z - info: Pages rebuilt
+2022-10-11T13:00:27.047Z - info: Website regeneration complete! Total build time: 1.111s
+2022-10-11T13:00:47.984Z - info: [9:00:47 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002-fragment.md
+2022-10-11T13:00:47.984Z - info: Synchronizing opened pages list before reload
+2022-10-11T13:00:47.985Z - info: Current opened pages, from most-to-least recent:
+2022-10-11T13:00:47.985Z - info: 1. schedule/week9/admin
+2022-10-11T13:00:47.985Z - info: 2. index
+2022-10-11T13:00:48.996Z - info: Rebuilding 2 pages
+2022-10-11T13:00:49.816Z - info: Site data built
+2022-10-11T13:00:49.817Z - info: Pages rebuilt
+2022-10-11T13:00:49.817Z - info: Website regeneration complete! Total build time: 0.822s
+2022-10-11T13:01:38.718Z - info: [9:01:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002-fragment.md
+2022-10-11T13:01:38.719Z - info: Synchronizing opened pages list before reload
+2022-10-11T13:01:38.719Z - info: Current opened pages, from most-to-least recent:
+2022-10-11T13:01:38.719Z - info: 1. schedule/week9/admin
+2022-10-11T13:01:39.738Z - info: Rebuilding 1 pages
+2022-10-11T13:01:40.261Z - info: Site data built
+2022-10-11T13:01:40.261Z - info: Pages rebuilt
+2022-10-11T13:01:40.262Z - info: Website regeneration complete! Total build time: 0.524s
+2022-10-11T13:02:53.333Z - info: Website generation started at 9:02:51 pm
+2022-10-11T13:03:03.098Z - info: Building assets...
