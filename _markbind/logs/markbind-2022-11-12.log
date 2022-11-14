@@ -474,3 +474,97 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\admin\exams-f2f.md
 2022-11-12T09:49:30.010Z - info: Website regeneration complete! Total build time: 1.582s
 2022-11-12T09:51:10.342Z - info: Website generation started at 5:51:08 pm
 2022-11-12T09:51:21.378Z - info: Building assets...
+2022-11-12T09:51:29.828Z - info: Assets built
+2022-11-12T09:51:29.830Z - info: Generating pages...
+2022-11-12T09:51:43.420Z - debug:  
+2022-11-12T09:51:43.420Z - debug:  
+2022-11-12T09:51:43.420Z - debug:  
+2022-11-12T09:51:43.421Z - debug:  
+2022-11-12T09:51:43.421Z - debug:  
+2022-11-12T09:51:43.421Z - debug:  
+2022-11-12T09:51:43.422Z - debug:  
+2022-11-12T09:51:43.422Z - debug:  
+2022-11-12T09:51:43.422Z - debug:  
+2022-11-12T09:51:43.422Z - debug:  
+2022-11-12T09:51:43.422Z - debug:  
+2022-11-12T09:52:19.987Z - debug:  
+2022-11-12T09:53:18.371Z - info: Pages built
+2022-11-12T09:53:19.457Z - info: Site data built
+2022-11-12T09:53:19.458Z - info: Website generation complete! Total build time: 131.13s
+2022-11-12T09:53:19.458Z - info: Build success!
+2022-11-12T09:55:11.130Z - info: The website has been deployed at: https://nus-tic2002-ay2223s1.github.io/website
+2022-11-12T14:45:41.645Z - info: Website generation (lazy) started at 10:45:35 pm
+2022-11-12T14:45:57.112Z - info: Building assets...
+2022-11-12T14:46:05.679Z - info: Assets built
+2022-11-12T14:46:05.680Z - info: Generating landing page...
+2022-11-12T14:46:06.844Z - info: Landing page built, other pages will be built as you navigate to them!
+2022-11-12T14:46:08.110Z - info: Site data built
+2022-11-12T14:46:08.111Z - info: Website generation (lazy) complete! Total build time: 32.653s
+2022-11-12T14:46:09.059Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2022-11-12T14:46:09.059Z - info: Press CTRL+C to stop ...
+2022-11-12T14:47:31.346Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2022-11-12T14:47:32.142Z - info: Site data built
+2022-11-12T14:47:32.143Z - info: Lazy website regeneration complete! Total build time: 0.799s
+2022-11-12T14:47:39.840Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tp-grading as some of its dependencies were changed since the last visit
+2022-11-12T14:47:40.589Z - info: Site data built
+2022-11-12T14:47:40.590Z - info: Lazy website regeneration complete! Total build time: 0.75s
+2022-11-12T14:49:43.134Z - info: [10:49:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2022-11-12T14:49:43.135Z - info: Synchronizing opened pages list before reload
+2022-11-12T14:49:43.135Z - info: Current opened pages, from most-to-least recent:
+2022-11-12T14:49:43.135Z - info: 1. admin/tp-grading
+2022-11-12T14:49:44.250Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2022-11-12T14:49:44.254Z - info: Rebuilding 1 pages
+2022-11-12T14:49:44.866Z - info: Site data built
+2022-11-12T14:49:44.866Z - info: Pages rebuilt
+2022-11-12T14:49:44.866Z - info: Website regeneration complete! Total build time: 0.722s
+2022-11-12T14:50:20.643Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\exams as some of its dependencies were changed since the last visit
+2022-11-12T14:50:20.957Z - info: Site data built
+2022-11-12T14:50:20.958Z - info: Lazy website regeneration complete! Total build time: 0.314s
+2022-11-12T14:54:17.300Z - info: [10:54:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exams.md
+2022-11-12T14:54:17.300Z - info: Synchronizing opened pages list before reload
+2022-11-12T14:54:17.301Z - info: Current opened pages, from most-to-least recent:
+2022-11-12T14:54:17.301Z - info: 1. admin/exams
+2022-11-12T14:54:18.322Z - info: Rebuilding 1 pages
+2022-11-12T14:54:18.559Z - info: Site data built
+2022-11-12T14:54:18.560Z - info: Pages rebuilt
+2022-11-12T14:54:18.560Z - info: Website regeneration complete! Total build time: 0.239s
+2022-11-12T14:54:50.695Z - info: [10:54:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-follow-up-questions-fragment.md
+2022-11-12T14:54:50.695Z - info: Synchronizing opened pages list before reload
+2022-11-12T14:54:50.695Z - info: Current opened pages, from most-to-least recent:
+2022-11-12T14:54:50.695Z - info: 1. admin/exams
+2022-11-12T14:54:51.705Z - info: Rebuilding 1 pages
+2022-11-12T14:54:52.109Z - info: Site data built
+2022-11-12T14:54:52.109Z - info: Pages rebuilt
+2022-11-12T14:54:52.109Z - info: Website regeneration complete! Total build time: 0.405s
+2022-11-12T15:14:58.053Z - info: [11:14:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\exam-doubts-fragment.md
+2022-11-12T15:14:58.053Z - info: Synchronizing opened pages list before reload
+2022-11-12T15:14:58.054Z - info: Current opened pages, from most-to-least recent:
+2022-11-12T15:14:58.054Z - info: 1. admin/exams
+2022-11-12T15:14:59.072Z - info: Rebuilding 1 pages
+2022-11-12T15:14:59.414Z - info: Site data built
+2022-11-12T15:14:59.414Z - info: Pages rebuilt
+2022-11-12T15:14:59.414Z - info: Website regeneration complete! Total build time: 0.344s
+2022-11-12T15:15:53.849Z - info: Website generation started at 11:15:51 pm
+2022-11-12T15:16:07.895Z - info: Building assets...
+2022-11-12T15:16:17.120Z - info: Assets built
+2022-11-12T15:16:17.121Z - info: Generating pages...
+2022-11-12T15:16:32.790Z - debug:  
+2022-11-12T15:16:32.825Z - debug:  
+2022-11-12T15:16:32.843Z - debug:  
+2022-11-12T15:16:32.844Z - debug:  
+2022-11-12T15:16:36.390Z - debug:  
+2022-11-12T15:16:36.390Z - debug:  
+2022-11-12T15:16:36.482Z - debug:  
+2022-11-12T15:16:36.482Z - debug:  
+2022-11-12T15:16:36.483Z - debug:  
+2022-11-12T15:16:36.483Z - debug:  
+2022-11-12T15:16:36.484Z - debug:  
+2022-11-12T15:16:36.484Z - debug:  
+2022-11-12T15:18:54.664Z - debug:  
+2022-11-12T15:19:09.953Z - debug:  
+2022-11-12T15:19:09.954Z - debug:  
+2022-11-12T15:19:20.615Z - info: Pages built
+2022-11-12T15:19:21.816Z - info: Site data built
+2022-11-12T15:19:21.816Z - info: Website generation complete! Total build time: 210.473s
+2022-11-12T15:19:21.816Z - info: Build success!
+2022-11-12T15:21:53.291Z - info: The website has been deployed at: https://nus-cs2103-ay2223s1.github.io/website
